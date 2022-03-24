@@ -1,2 +1,2 @@
 # Main
-hello this is branch2!!
+hello this is branch2
